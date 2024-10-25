@@ -1,4 +1,4 @@
-# ds-house-price-predictor
+# House Price Predictor
 This project evaluated different machine learning models for predicting real estate prices.
 
 ## Description
